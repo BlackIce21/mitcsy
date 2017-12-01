@@ -16,3 +16,13 @@
 2. Ailment description
 3. Face recognition
 4. OCR
+
+## Cloud Services
+
+### Microsoft Azure
+1. Face API
+2. Computer Vision API
+3. CosmosDB
+4. Function App
+5. Bing Speech API
+6. LUIS
