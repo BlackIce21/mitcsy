@@ -10,6 +10,7 @@
 4. pprint
 5. Pandas
 6. PyMongo
+7. Azure Face SDK
 
 ## Features
 1. Ailment diagnosis
