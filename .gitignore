@@ -26,6 +26,7 @@
 *.log
 *.sql
 *.sqlite
+*.pickle
 
 # OS generated files #
 ######################
