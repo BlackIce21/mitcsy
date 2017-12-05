@@ -10,7 +10,9 @@
 4. pprint
 5. Pandas
 6. PyMongo
-7. Azure Face SDK
+8. PyGame
+9. wave
+10. xml
 
 ## Features
 1. Ailment diagnosis
