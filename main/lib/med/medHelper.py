@@ -162,17 +162,15 @@ def findDescription(diseaseName, client):
 
 
 def medicalQuery(luisRes):
-    cwd = os.getcwd()
-    print(cwd)
     intent = luisRes['intent']
     entities = luisRes['entities']
     dbClient = getClient()
     if(intent == 'medical.getDescription'):
         return(findDescription(entities[0]['diseaseName'], dbClient))
     elif(intent == 'medical.findDisease'):
-        return(findSymptoms(entities[0]['diseaseName'], dbClient))
-    elif(intent == 'medical.getSymptoms'):
         return("Functionality unavailable")
+    elif(intent == 'medical.getSymptoms'):
+        return(findSymptoms(entities[0]['diseaseName'], dbClient)
         # //////////////^MODIFY MAIN CODE FOR THIS^\\\\\\\\\\\\\\\\
         
 
