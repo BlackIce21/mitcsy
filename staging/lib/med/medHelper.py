@@ -170,7 +170,5 @@ def medicalQuery(luisRes):
     elif(intent == 'medical.findDisease'):
         return("Functionality unavailable")
     elif(intent == 'medical.getSymptoms'):
-        return(findSymptoms(entities[0]['diseaseName'], dbClient)
+        return(findSymptoms(entities[0]['diseaseName'], dbClient))
         # //////////////^MODIFY MAIN CODE FOR THIS^\\\\\\\\\\\\\\\\
-        
-
