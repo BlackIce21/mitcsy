@@ -1,5 +1,7 @@
 # MITCSY
 
+**Note:** Reference docs can be found in the *aux_resources* folder
+
 ## Langauges
 1. Python
 
