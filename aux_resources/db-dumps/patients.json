@@ -1,0 +1,36 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a5454a53599362650bc8238"),
+    "personId" : "bff8ae4b-1fe6-428d-8366-48d280e13bb3",
+    "personGroupId" : "hospital_department",
+    "name" : "arzan",
+    "persistedFaces" : [
+        "e8bcc720-e26e-4d8e-bb7d-53dfca55b5dd",
+        "427dea3c-ae51-474e-a82e-7d4f831ff3e1",
+        "db60d695-71f8-4a3f-abab-f94d4fa35676",
+        "cb409681-e22c-402c-b058-7bd790f04422",
+        "2aace153-b1de-400a-a985-4d81751c289e",
+        "222c5f90-44f0-4afc-9342-086f2123d98c",
+        "04a7c3a7-d4e1-485c-8bb3-c25ae5602b91",
+        "116cf1c6-ae9f-4b51-a9d8-89f5ad6a0617",
+        "d7bff8e7-0be1-4a32-a00c-1ed5a1980a6d",
+        "a76bcf57-51bd-4393-9da4-2387f76839f0",
+        "3832b094-8d57-4b5b-a33c-485166dc8d15"
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a546dce74fece08678faad9"),
+    "personId" : "a6c68e90-b400-4cb5-9908-1b91ca5018c4",
+    "personGroupId" : "hospital_department",
+    "name" : "Andrew.",
+    "persistedFaces" : [
+        "4a8339b2-c750-493b-b5fb-fc05193537cf",
+        "ca2d2985-aa5e-47aa-a653-0c5e05ce4e61",
+        "5e32ee39-08b3-4e2d-9a6a-7b00e9deac96",
+        "639321f6-4c19-4f26-91c2-0c383bc9c033",
+        "2e58f3c8-be42-49cc-b17b-78cffde68924",
+        "7c99765e-e7b4-413f-9231-0c16a4d1f30f"
+    ]
+}

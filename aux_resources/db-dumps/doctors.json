@@ -1,0 +1,27 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a533fb7831d061d11fe61e5"),
+    "name" : "gorilla",
+    "mail" : "saurabhsameer.1995@gmail.com"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a537102831d061d110bb3da"),
+    "name" : "foster",
+    "mail" : "pears.chirag@gmail.com"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a54c122831d061d1136d214"),
+    "name" : "mary",
+    "mail" : "arzan@cloudthat.com"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a54c184831d061d1136dbf3"),
+    "name" : "david",
+    "mail" : "akashp@cloudthat.in"
+}

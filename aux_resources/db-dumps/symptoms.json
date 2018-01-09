@@ -1,0 +1,111 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ed9"),
+    "name" : "dizziness",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863edb"),
+    "name" : "fever",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863eda"),
+    "name" : "fatigue",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863edc"),
+    "name" : "fear",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863edd"),
+    "name" : "hallucinations",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ede"),
+    "name" : "chills",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee2"),
+    "name" : "dark urine",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee0"),
+    "name" : "malaise",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863edf"),
+    "name" : "diarrhoea",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee1"),
+    "name" : "yellowing of the eyes",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee3"),
+    "name" : "difficulty breathing",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee8"),
+    "name" : "weight loss",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee4"),
+    "name" : "pain in the chest",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee5"),
+    "name" : "shortness of breath",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee6"),
+    "name" : "pain in the joints",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5a4245608e50f72fc0863ee7"),
+    "name" : "blisters",
+    "__v" : 0
+}

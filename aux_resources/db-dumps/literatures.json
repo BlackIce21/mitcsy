@@ -1,0 +1,69 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a42459f8b5b012580ac2a97"),
+    "title" : "rabies",
+    "content" : "Rabies is a viral disease that causes inflammation of the brain in humans and other mammals",
+    "symptoms" : [
+        "dizziness",
+        "fatigue",
+        "fever",
+        "fear",
+        "hallucinations"
+    ],
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a42459f8b5b012580ac2a98"),
+    "title" : "malaria",
+    "content" : "A disease caused by a parasite, transmitted by the bite of infected mosquitoes.",
+    "symptoms" : [
+        "chills",
+        "fatigue",
+        "diarrhoea",
+        "shivering"
+    ],
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a42459f8b5b012580ac2a99"),
+    "title" : "hepatitis b",
+    "content" : "Hepatitis B is a virus that infects the liver. Most adults who get it have it for a short time and then get better",
+    "symptoms" : [
+        "malaise",
+        "fatigue",
+        "yellowing of the eyes",
+        "dark urine"
+    ],
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a42459f8b5b012580ac2a9a"),
+    "title" : "anthrax",
+    "content" : "Anthrax is an infection caused by the bacterium Bacillus anthracis. It can occur in four forms: skin, lungs, intestinal, and injection.",
+    "symptoms" : [
+        "skin ulcer with a dark scab",
+        "difficulty breathing",
+        "pain in the chest",
+        "shortness of breath"
+    ],
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a42459f8b5b012580ac2a9b"),
+    "title" : "leprosy",
+    "content" : "Leprosy,  is a long-term infection by the bacterium Mycobacterium leprae. Initially, infections are without symptoms and typically remain this way for 5 to 20 years.",
+    "symptoms" : [
+        "pain in the joints",
+        "blisters",
+        "weight loss"
+    ],
+    "__v" : 0
+}
